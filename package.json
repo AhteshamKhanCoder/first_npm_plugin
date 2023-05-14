@@ -1,0 +1,11 @@
+{
+  "name": "first_npm_plugin",
+  "version": "1.0.0",
+  "description": "Test the first plugin",
+  "main": "\\",
+  "scripts": {
+    "test": "test-first-npm"
+  },
+  "author": "Ahtesham Khan",
+  "license": "ISC"
+}
